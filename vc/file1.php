@@ -6,12 +6,10 @@
     <link rel="stylesheet" href="css/style.css" type="text/css">
   </head>
   <body>
-    <ol>
-      <li>Mercury</li>
-      <li>Venus</li>
-      <li>Earth</li>
-      <li>Mars</li>
-    </ol>
-
+    <center>
+    <p>
+      
+    </p>
+    </center>
   </body>
 </html>
