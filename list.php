@@ -10,10 +10,23 @@
       <div class="header">
         <h1>HEADER</h1>
       </div>
-      <div class="container">
-        <p>Container</p>
-      </div>
     </center>
+      <div class="container">
+        <center>
+          <h3>List of Songs</h3>
+        </center>
+          <ol>
+            <li><b>Arthur Nery</b> - Pagsamo</li>
+            <li><b>Arthur Nery</b> - Higa</li>
+            <li><b>Arthur Nery</b> - Binhi</li>
+            <li><b>Arthur Nery</b> - Pelikula</li>
+            <li><b>Adie</b> - Paraluman</li>
+            <li><b>Adie</b> - Tahanan</li>
+            <li><b>Christian Bautista</b> - Kailan pa ma'y ikaw pa rin</li>
+            <li><b>Liezel & Bugoy</b> - Pag-ibig na kaya</li>
+          </ol>
+      </div>
+
   </body>
-  <script type="text/javascript" src="app.js"></script>
+  <!-- <script type="text/javascript" src="app.js"></script> -->
 </html>
