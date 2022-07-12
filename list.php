@@ -20,6 +20,7 @@
             <li><b>Arthur Nery</b> - Higa</li>
             <li><b>Arthur Nery</b> - Binhi</li>
             <li><b>Arthur Nery</b> - Pelikula</li>
+            <li><b>Arthur Nery</b> - Cotton Candy</li>
             <li><b>Adie</b> - Paraluman</li>
             <li><b>Adie</b> - Tahanan</li>
             <li><b>Christian Bautista</b> - Kailan pa ma'y ikaw pa rin</li>
