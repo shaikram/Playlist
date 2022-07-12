@@ -29,6 +29,7 @@
             <li><b>EXO</b> - For you</li>
             <li><b>Chanyeol</b> - Stay with me</li>
             <li><b>Punch</b> - Done for me</li>
+            <li><b>Baek A Yeon</b> - so So</li>
           </ol>
       </div>
 
