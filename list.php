@@ -30,6 +30,7 @@
             <li><b>Chanyeol</b> - Stay with me</li>
             <li><b>Punch</b> - Done for me</li>
             <li><b>Baek A Yeon</b> - so So</li>
+            <li><b>StayC</b> - Stereotype</li>
           </ol>
       </div>
 
