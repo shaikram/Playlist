@@ -24,6 +24,10 @@
             <li><b>Adie</b> - Tahanan</li>
             <li><b>Christian Bautista</b> - Kailan pa ma'y ikaw pa rin</li>
             <li><b>Liezel & Bugoy</b> - Pag-ibig na kaya</li>
+            <li><b>Jay R</b> - Bakit pa ba</li>
+            <li><b>Brian Mcknight</b> - Back at One</li>
+            <li><b>EXO</b> - For you</li>
+            <li><b>Chanyeol</b> - Stay with me</li>
           </ol>
       </div>
 
